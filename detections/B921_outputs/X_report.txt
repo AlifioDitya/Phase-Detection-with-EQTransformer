@@ -1,0 +1,27 @@
+================== Overal Info ==============================
+date of report: 2023-10-22 23:09:22.882452
+input_hdf5: downloads_mseeds_processed_hdfs\B921.hdf5
+input_csv: downloads_mseeds_processed_hdfs\B921.csv
+input_model: ./ModelsAndSampleData/EqT_original_model.h5
+output_dir: c:\Users\alifi\OneDrive - Institut Teknologi Bandung\Work\Machine Learning\Projects\CoRE\EQTransformer\detections\B921_outputs
+================== Prediction Parameters =======================
+finished the prediction in:  0 hours and 1 minutes and 41.01 seconds 
+detected: 5343 events.
+writting_probability_outputs: False
+loss_types: ['binary_crossentropy', 'binary_crossentropy', 'binary_crossentropy']
+loss_weights: [0.03, 0.4, 0.58]
+batch_size: 500
+================== Other Parameters =========================
+normalization_mode: std
+estimate uncertainty: False
+number of Monte Carlo sampling: 5
+detection_threshold: 0.3
+P_threshold: 0.1
+S_threshold: 0.1
+number_of_plots: 100
+use_multiprocessing: True
+gpuid: None
+gpu_limit: None
+keepPS: True
+allowonlyS: True
+spLimit: 60 seconds

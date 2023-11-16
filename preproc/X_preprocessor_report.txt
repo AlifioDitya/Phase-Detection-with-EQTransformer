@@ -1,0 +1,3 @@
+ Station CA06 had 2 chuncks of data, 4112 slices were written, 4114 were expected. Number of 1-components: 0, Number of 2-components: 0, number of 3-components: 2, original samplieng rate: 100.0
+ Station SV08 had 2 chuncks of data, 4112 slices were written, 4114 were expected. Number of 1-components: 0, Number of 2-components: 0, number of 3-components: 2, original samplieng rate: 100.0
+ Station B921 had 2 chuncks of data, 4112 slices were written, 4114 were expected. Number of 1-components: 0, Number of 2-components: 0, number of 3-components: 2, original samplieng rate: 100.0
