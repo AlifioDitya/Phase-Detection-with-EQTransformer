@@ -22,6 +22,9 @@
 The **EQTransformer** python 3 package includes modules for downloading continuous seismic data, preprocessing, performing earthquake signal detection, and phase (P & S) picking using pre-trained models, building and testing new models, and performing a simple phase association. 
 
 Developer: S. Mostafa Mousavi (smousavi05@gmail.com)
+Modified by: E. Alifio Ditya (alifioditya@gmail.com)
+
+> This library is modified to conform to newer changes in dependencies
 
 * [Links](#Links) 
 * [Installation](#Installation) 
@@ -40,7 +43,6 @@ Developer: S. Mostafa Mousavi (smousavi05@gmail.com)
 * Documentation: https://rebrand.ly/EQT-documentations
 
 * Paper:https://rdcu.be/b58li
-
 
 -----------------
 ## Installation
@@ -62,7 +64,6 @@ Developer: S. Mostafa Mousavi (smousavi05@gmail.com)
 If you already have `Obspy` installed on your machine, you can get **EQTransformer** through PyPI:
 
     pip install EQTransformer
-
 
 #### From source:
 
