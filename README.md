@@ -21,8 +21,8 @@
  
 The **EQTransformer** python 3 package includes modules for downloading continuous seismic data, preprocessing, performing earthquake signal detection, and phase (P & S) picking using pre-trained models, building and testing new models, and performing a simple phase association. 
 
-Developer: S. Mostafa Mousavi (smousavi05@gmail.com)
-Modified by: E. Alifio Ditya (alifioditya@gmail.com)
+- Developer: S. Mostafa Mousavi (smousavi05@gmail.com)  
+- Modified by: E. Alifio Ditya (alifioditya@gmail.com)
 
 > This library is modified to conform to newer changes in dependencies
 
